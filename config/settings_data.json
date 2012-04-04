@@ -1,7 +1,7 @@
 {
   "presets": {
     "Minimal ": {
-      "header_font": "BebasNeueRegular, arial, sans-serif",
+      "header_font": "QuicksandBook, arial, sans-serif",
       "sm_twitter": true,
       "show_widget_linklist3": false,
       "header_search_border_colour": "#dddddd",
